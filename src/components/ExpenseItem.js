@@ -1,5 +1,5 @@
 function ExpenseItem() {
-    return(
+    return (
         <h3>This is the item!</h3>
     );
 }
